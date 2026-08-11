@@ -76,5 +76,8 @@ The model predicts:
 ```text
 0 → Benign
 1 → Malignant
+```
 
-https://github.com/Ayaan-97/Breast-Cancer-Prediction.git
+## 🔗 Repository
+
+Project source: https://github.com/Ayaan-97/Breast-Cancer-Prediction.git
